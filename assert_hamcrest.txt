@@ -1,0 +1,1 @@
+${:importStatic('org.hamcrest.Matchers.*',org.junit.Assert.assertThat)}assertThat(${cursor}, is(not(nullValue())));

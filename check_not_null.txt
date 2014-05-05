@@ -1,0 +1,1 @@
+${:importStatic('com.google.common.base.Preconditions.*')}checkNotNull(${word_selection})

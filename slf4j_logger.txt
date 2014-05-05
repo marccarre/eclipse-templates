@@ -1,0 +1,2 @@
+${:import(org.slf4j.Logger,org.slf4j.LoggerFactory)}
+private static final Logger LOGGER = LoggerFactory.getLogger(${enclosing_type}.class);

@@ -1,0 +1,1 @@
+${:importStatic('org.mockito.Mockito.*')}${Type} ${mockName} = mock(${Type}.class);

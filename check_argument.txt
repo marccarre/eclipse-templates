@@ -1,0 +1,1 @@
+${:importStatic('com.google.common.base.Preconditions.*')}checkArgument(${word_selection})
